@@ -31,16 +31,16 @@
 <table>
 <tr>
 <td>
-  
+
 👋 一个 GitHub 萌新，还在摸索中。
 
 - 🔍 对 **验证码识别、OCR、自动化工具** 感兴趣
 - 🐢 写点自己用得上的东西，佛系上传
 - ☕ 日常摸鱼、偶尔折腾
-  
+
 </td>
 <td>
-  
+
 📫 **联系方式**
 
 <a href="mailto:2992744026@qq.com"><img src="https://img.shields.io/badge/QQ-2992744026-1DA1F2?style=flat-square&logo=tencentqq&logoColor=white" /></a>
@@ -95,127 +95,4 @@
 
 <sub>Last updated: 2026-05</sub>
 
-</div>
-
-<div align="center">
-  
-# 🎉 Welcome to my GitHub 🎉
-
-### 🐣 新手上路 · 佛系更新 · 随便玩玩 🐣
-
-</div>
-
----
-
-### 🧑‍💻 关于我
-
-<table>
-<tr>
-<td>
-
-👋 **Hi there!**
-
-我是一个 GitHub 萌新，目前还在摸索中。
-
-- 🔍 **感兴趣的方向：** 验证码识别、OCR、自动化工具
-- 🐢 **更新频率：** 龟速，佛系为主
-- 🎯 **目标：** 写点自己用得上的东西
-- ☕ **日常：** 摸鱼、瞎折腾、偶尔学习
-
-</td>
-</tr>
-</table>
-
-### 🌈 随手标记
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/OCR-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-### 🧰 目前状态
-
-<p>
-  <img src="https://img.shields.io/badge/STATUS-学习中-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/仓库数量-1个-9cf?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/更新频率-随缘-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/技能等级-⭐入门中-orange?style=for-the-badge" />
-</p>
-
-### 📬 联系方式
-
-<p>
-  <a href="mailto:2992744026@qq.com"><img src="https://img.shields.io/badge/QQ-2992744026-1DA1F2?style=for-the-badge&logo=tencentqq&logoColor=white" /></a>
-  <a href="mailto:2992744026@qq.com"><img src="https://img.shields.io/badge/QQ%E9%82%AE%E7%AE%B1-2992744026%40qq.com-000000?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
-  <a href="mailto:xier0824@gmail.com"><img src="https://img.shields.io/badge/Gmail-xier0824%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-### 📊 随便看看
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xixixier&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=false" />
-</div>
-
-### 👀 访客统计
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=xixixier&color=ff69b4&style=flat-square&label=👀+来过的人" />
-</p>
-
----
-
-<div align="center">
-
-### ⭐ 感谢你看到这里 ⭐
-
-**欢迎常来逛逛，虽然可能没什么变化 😄**
-
-🎨 🎮 🎵 ☕ 🌙 🐢
-
-</div>
-
-<div align="center">
-  
-🎉  **Welcome to my GitHub**  🎉
-
-</div>
-
----
-
-### 🧑‍💻 关于我
-
-- 🆕 GitHub 新手，纯属搞着玩
-- 🔍 对验证码识别、OCR、自动化有点兴趣
-- 🐢 上传频率 ≈ 龟速，佛系为主
-
-### 📦 仓库
-
-目前还是光秃秃的，以后有东西了再往上扔。
-
-### 📬 联系方式
-
-<p>
-  <a href="mailto:2992744026@qq.com"><img src="https://img.shields.io/badge/QQ-2992744026-1DA1F2?style=for-the-badge&logo=tencentqq&logoColor=white" /></a>
-  <a href="mailto:2992744026@qq.com"><img src="https://img.shields.io/badge/QQ%E9%82%AE%E7%AE%B1-2992744026%40qq.com-000000?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
-  <a href="mailto:xier0824@gmail.com"><img src="https://img.shields.io/badge/Gmail-xier0824%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-### 👀 访客统计
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=xixixier&color=ff69b4&style=flat-square&label=👀+来过的" />
-</p>
-
----
-
-<div align="center">
-  
-✨ **Thanks for stopping by!**  ✨
-  
 </div>
