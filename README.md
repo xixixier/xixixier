@@ -1,10 +1,10 @@
 <pre align="center">
-██╗  ██╗ ██╗ ██╗  ██╗ ██╗ ██╗  ██╗ ██╗ ███████╗ ██████╗
- ╚██╗██╔╝ ██║ ╚██╗██╔╝ ██║ ╚██╗██╔╝ ██║ ██╔════╝ ██╔══██╗
-  ╚███╔╝  ██║  ╚███╔╝  ██║  ╚███╔╝  ██║ █████╗   ██████╔╝
-  ██╔██╗  ██║  ██╔██╗  ██║  ██╔██╗  ██║ ██╔══╝   ██╔══██╗
- ██╔╝ ██╗ ██║ ██╔╝ ██╗ ██║ ██╔╝ ██╗ ██║ ███████╗ ██║  ██║
- ╚═╝  ╚═╝ ╚═╝ ╚═╝  ╚═╝ ╚═╝ ╚═╝  ╚═╝ ╚═╝ ╚══════╝ ╚═╝  ╚═╝
+██╗  ██╗██╗██╗  ██╗██╗██╗  ██╗██╗███████╗██████╗
+╚██╗██╔╝██║╚██╗██╔╝██║╚██╗██╔╝██║██╔════╝██╔══██╗
+ ╚███╔╝ ██║ ╚███╔╝ ██║ ╚███╔╝ ██║█████╗  ██████╔╝
+ ██╔██╗ ██║ ██╔██╗ ██║ ██╔██╗ ██║██╔══╝  ██╔══██╗
+██╔╝ ██╗██║██╔╝ ██╗██║██╔╝ ██╗██║███████╗██║  ██║
+╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
 </pre>
 
 <h1 align="center">Hi there 👋, I'm xixixier</h1>
@@ -27,7 +27,7 @@
 
 <table>
 <tr>
-<td>
+<td width="60%">
 
 👋 一个 GitHub 萌新，还在摸索中。
 
@@ -36,12 +36,12 @@
 - ☕ 日常摸鱼、偶尔折腾
 
 </td>
-<td>
+<td width="40%">
 
 📫 **联系方式**
 
-<a href="mailto:2992744026@qq.com"><img src="https://img.shields.io/badge/QQ-2992744026-1DA1F2?style=flat-square&logo=tencentqq&logoColor=white" /></a>
-<a href="mailto:2992744026@qq.com"><img src="https://img.shields.io/badge/QQ%E9%82%AE%E7%AE%B1-2992744026%40qq.com-000000?style=flat-square&logo=maildotru&logoColor=white" /></a>
+<a href="mailto:2992744026@qq.com"><img src="https://img.shields.io/badge/QQ-2992744026-1DA1F2?style=flat-square&logo=tencentqq&logoColor=white" /></a><br>
+<a href="mailto:2992744026@qq.com"><img src="https://img.shields.io/badge/QQ%E9%82%AE%E7%AE%B1-2992744026%40qq.com-000000?style=flat-square&logo=maildotru&logoColor=white" /></a><br>
 <a href="mailto:xier0824@gmail.com"><img src="https://img.shields.io/badge/Gmail-xier0824%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </td>
@@ -63,21 +63,10 @@
   <img src="https://img.shields.io/badge/HarmonyOS-000000?style=for-the-badge&logo=harmonyos&logoColor=white" />
 </p>
 
-### 📊 GitHub 统计
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=xixixier&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xixixier&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xixixier&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
-</div>
-
 ### 👀 访客
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xixixier&color=ff69b4&style=flat-square&label=👀+来过的人" />
+  <img src="https://komarev.com/ghpvc/?username=xixixier&color=ff69b4&style=flat-square&label=Visitors" />
 </p>
 
 ---
