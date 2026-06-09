@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-学习中-ff69b4?style=flat-square" />
-  <img src="https://img.shields.io/badge/仓库-1个-9cf?style=flat-square" />
+  <img src="https://img.shields.io/badge/仓库-3个-9cf?style=flat-square" />
   <img src="https://img.shields.io/badge/更新-随缘-success?style=flat-square" />
   <img src="https://img.shields.io/badge/技能-⭐入门-orange?style=flat-square" />
 </p>
